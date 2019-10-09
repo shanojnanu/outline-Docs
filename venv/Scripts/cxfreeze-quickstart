@@ -1,0 +1,5 @@
+#!G:\study\AI\PROJECT\python-workspace\outline-Docs\venv\Scripts\python.exe
+from cx_Freeze.setupwriter import main
+
+main()
+
